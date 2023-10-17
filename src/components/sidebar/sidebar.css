@@ -1,0 +1,20 @@
+
+header{
+    left: 0;
+    width: 250px;
+    height: 100%;
+    padding: 20px;
+}
+
+.logo {
+    position: relative;
+    width: 150px;
+}
+.nav {
+    background-color: #11afc1;
+    height:auto;
+    border-radius: 20px;
+}
+.nav a {
+    color: white;
+}
